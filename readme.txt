@@ -9,6 +9,7 @@ commit
 分支管理策略1
 分支管理策略2
 分支1
-普通分支合并
+普通分支合�?
 no fast forward mode 合并
 git is a free software!!!!
+adsadadadasad
