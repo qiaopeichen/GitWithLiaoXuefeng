@@ -10,3 +10,4 @@ commit
 分支管理策略2
 分支1
 普通分支合并
+no fast forward mode 合并
