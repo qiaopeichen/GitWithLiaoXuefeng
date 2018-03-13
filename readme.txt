@@ -8,3 +8,4 @@ creating a new branch is quick and simple.
 commit
 分支管理策略1
 分支管理策略2
+分支1
