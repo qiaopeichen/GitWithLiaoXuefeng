@@ -11,4 +11,4 @@ commit
 分支1
 普通分支合并
 no fast forward mode 合并
-git is free 
+git is a free software.
