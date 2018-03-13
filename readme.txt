@@ -5,3 +5,4 @@ creating a new branch is quick and simple.
 分支管理策略
 分支管理策略2
 分支管理策略3
+commit
