@@ -13,3 +13,5 @@ commit
 no fast forward mode 合并
 git is a free software!!!!
 adsadadadasad
+
+test for master's modify push on the branch dev.
